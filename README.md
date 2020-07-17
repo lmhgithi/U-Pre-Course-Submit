@@ -1,3 +1,3 @@
 # U-Pre-Course-Submit
 
-Home work
+## My personal homework repo. Please do not spread without permission, otherwise may have legal issues.
