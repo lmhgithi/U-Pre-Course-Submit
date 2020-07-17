@@ -1,3 +1,3 @@
 # U-Pre-Course-Submit
 
-## My personal homework repo. Please do not spread without permission, otherwise may have legal issues.
+## This is my personal homework repo. Please do not spread in any circumstances, otherwise there may have **legal issues** .
