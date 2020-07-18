@@ -1,3 +1,6 @@
 # U-Pre-Course-Submit
+这是我的作业仓库
 
-## This is my personal homework repo. Please do not spread in any circumstances, otherwise there may have **legal issues** .
+#WARNING
+---
+该代码库版权归ThoughtWorks所有
